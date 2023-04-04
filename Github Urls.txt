@@ -1,4 +1,6 @@
 Password Token
-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
+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
+
 Github Url
-https://github.com/Munnababu420/Siva-Repository.git
+
+https://github.com/siva-prasad-reddy/Siva-Repository.git
