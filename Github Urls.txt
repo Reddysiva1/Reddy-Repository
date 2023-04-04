@@ -2,5 +2,4 @@ Password Token
 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
 
 Github Url
-
-https://github.com/siva-prasad-reddy/Siva-Repository.git
+https://github.com/siva-prasad-reddy/prasad-Repository.git
